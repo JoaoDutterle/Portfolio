@@ -324,6 +324,10 @@ body{
     max-width: 100%;
     margin-left: 28px;
   }
+  
+  .blackbox{
+    opacity: 0.8;
+  }
 
   #titulo-projetos p{
     margin-left: 28px;
